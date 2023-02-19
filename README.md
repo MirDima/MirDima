@@ -1,5 +1,6 @@
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h1 align="center"> Hi there 👋 </h1>
+<img src="https://raw.githubusercontent.com/MirDima/MirDima/main/images/Git-bg.webp" >
+
+<h1 align="center">Hi there!<img src="https://raw.githubusercontent.com/MirDima/MirDima/main/images/Hi.gif" height="32"></h1>
 
 
 
