@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MirDima/MirDima/main/images/Git_bg.webp" >
+<img src="https://raw.githubusercontent.com/MirDima/MirDima/main/images/Git-bg.png" >
 
 <h1 align="center">Hi there!<img src="https://raw.githubusercontent.com/MirDima/MirDima/main/images/Hi.gif" height="32"></h1>
 
