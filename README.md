@@ -9,7 +9,7 @@
 - 🌍 I speak Russian (native), English (B2)
 
 **Languages:**
-
-
+<p align="left">
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/MirDima/MirDima/main/images/python-logo.png" alt="python" height="40"/> </a> 
 
 
