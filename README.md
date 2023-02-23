@@ -16,4 +16,5 @@
 
 **Tools:**
 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/MirDima/MirDima/main/images/python_logo.png" alt="vscode" height="45"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/MirDima/MirDima/main/images/VSCode_logo.png" alt="vscode" height="45"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/MirDima/MirDima/main/images/VSCode_logo.png" alt="pycharm" height="45"/> </a>
