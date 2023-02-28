@@ -17,10 +17,16 @@
 **Tools:**
 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/MirDima/MirDima/main/images/pycharm_logo.png" alt="pycharm" height="40"/></a>
-
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/MirDima/MirDima/main/images/VSCode_logo.png" alt="vscode" height="40" hspace="5.5"/></a>
 <a href="https://termius.com/" target="_blank"> <img src="https://raw.githubusercontent.com/MirDima/MirDima/main/images/termius_logo.png" alt="termius" height="40" hspace="5"/></a>
 <a href="https://adobe.com/" target="_blank"> <img src="https://raw.githubusercontent.com/MirDima/MirDima/main/images/adobe_logo.png" alt="adobe" height="40"/></a>
 
 
 ![](https://www.codewars.com/users/MirazimovD/badges/large)
+
+
+[//]: # ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=MirDima&theme=gruvbox&#41;]&#40;https://github.com/MirDima/github-profile-trophy&#41;)
+
+[//]: # ()
+[//]: # ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com/?user=MirDima&#41;]&#40;https://git.io/streak-stats&#41;)
+
